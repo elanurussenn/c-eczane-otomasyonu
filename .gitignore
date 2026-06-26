@@ -1,0 +1,21 @@
+# Derleme çıktıları
+
+*.exe
+*.o
+*.obj
+*.out
+
+# Code::Blocks dosyaları
+
+*.depend
+*.layout
+
+# Build klasörleri
+
+bin/
+obj/
+
+# Sistem dosyaları
+
+.DS_Store
+Thumbs.db
